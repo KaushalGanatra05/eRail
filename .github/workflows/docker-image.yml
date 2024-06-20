@@ -30,4 +30,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kaushalganatra05/kaushal-image:1.7.3
+          tags: kaushalganatra05/kaushal-image:1.7.4
